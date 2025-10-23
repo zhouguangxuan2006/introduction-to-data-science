@@ -1,0 +1,590 @@
+2025-10-18 18:15:13,767 - INFO - ���ݿ���ṹ��ʼ�����
+2025-10-18 18:15:13,768 - INFO - ���� 22 ��CSV�ļ�����ʼ��������...
+2025-10-18 18:15:13,820 - INFO - ����ɹ�: AGRICULTURAL SCIENCES (1331 ������)
+2025-10-18 18:15:13,851 - INFO - ����ɹ�: BIOLOGY & BIOCHEMISTRY (1601 ������)
+2025-10-18 18:15:13,878 - INFO - ����ɹ�: CHEMISTRY (2094 ������)
+2025-10-18 18:15:13,933 - INFO - ����ɹ�: CLINICAL MEDICINE (4459 ������)
+2025-10-18 18:15:13,956 - INFO - ����ɹ�: COMPUTER SCIENCE (839 ������)
+2025-10-18 18:15:13,968 - INFO - ����ɹ�: ECONOMICS & BUSINESS (537 ������)
+2025-10-18 18:15:14,024 - INFO - ����ɹ�: ENGINEERING (2673 ������)
+2025-10-18 18:15:14,054 - INFO - ����ɹ�: ENVIRONMENT ECOLOGY (1988 ������)
+2025-10-18 18:15:14,077 - INFO - ����ɹ�: GEOSCIENCES (1142 ������)
+2025-10-18 18:15:14,100 - INFO - ����ɹ�: IMMUNOLOGY (1145 ������)
+2025-10-18 18:15:14,129 - INFO - ����ɹ�: MATERIALS SCIENCE (1550 ������)
+2025-10-18 18:15:14,149 - INFO - ����ɹ�: MATHEMATICS (385 ������)
+2025-10-18 18:15:14,168 - INFO - ����ɹ�: MICROBIOLOGY (785 ������)
+2025-10-18 18:15:14,190 - INFO - ����ɹ�: MOLECULAR BIOLOGY & GENETICS (1142 ������)
+2025-10-18 18:15:14,207 - INFO - ����ɹ�: MULTIDISCIPLINARY (214 ������)
+2025-10-18 18:15:14,228 - INFO - ����ɹ�: NEUROSCIENCE & BEHAVIOR (1240 ������)
+2025-10-18 18:15:14,256 - INFO - ����ɹ�: PHARMACOLOGY & TOXICOLOGY (1353 ������)
+2025-10-18 18:15:14,276 - INFO - ����ɹ�: PHYSICS (973 ������)
+2025-10-18 18:15:14,310 - INFO - ����ɹ�: PLANT & ANIMAL SCIENCE (1869 ������)
+2025-10-18 18:15:14,349 - INFO - ����ɹ�: PSYCHIATRY PSYCHOLOGY (1108 ������)
+2025-10-18 18:15:14,380 - INFO - ����ɹ�: SOCIAL SCIENCES, GENERAL (2300 ������)
+2025-10-18 18:15:14,404 - INFO - ����ɹ�: SPACE SCIENCE (232 ������)
+2025-10-18 18:15:14,410 - INFO - ����ʦ����ѧ������� (�ҵ� 17 ����¼)
+2025-10-18 18:15:14,422 - INFO - �й���½��У������� (���� 22 ��ѧ��)
+2025-10-18 18:15:14,433 - INFO - ȫ������������ (�ҵ� 1536 ������-ѧ�Ƽ�¼)
+2025-10-18 18:15:15,385 - INFO - ��������ѳɹ�������: D:\vsc\���ݿ�ѧ������ݼ�������\download\download\analysis_results.xlsx
+2025-10-18 18:25:27,943 - INFO - ���ݿ���ṹ��ʼ�����
+2025-10-18 18:25:27,943 - INFO - ���� 22 ��CSV�ļ�����ʼ��������...
+2025-10-18 18:25:27,995 - INFO - ����ɹ�: AGRICULTURAL SCIENCES (1331 ������)
+2025-10-18 18:25:28,015 - INFO - ����ɹ�: BIOLOGY & BIOCHEMISTRY (1601 ������)
+2025-10-18 18:25:28,049 - INFO - ����ɹ�: CHEMISTRY (2094 ������)
+2025-10-18 18:25:28,099 - INFO - ����ɹ�: CLINICAL MEDICINE (4459 ������)
+2025-10-18 18:25:28,113 - INFO - ����ɹ�: COMPUTER SCIENCE (839 ������)
+2025-10-18 18:25:28,140 - INFO - ����ɹ�: ECONOMICS & BUSINESS (537 ������)
+2025-10-18 18:25:28,178 - INFO - ����ɹ�: ENGINEERING (2673 ������)
+2025-10-18 18:25:28,211 - INFO - ����ɹ�: ENVIRONMENT ECOLOGY (1988 ������)
+2025-10-18 18:25:28,232 - INFO - ����ɹ�: GEOSCIENCES (1142 ������)
+2025-10-18 18:25:28,253 - INFO - ����ɹ�: IMMUNOLOGY (1145 ������)
+2025-10-18 18:25:28,281 - INFO - ����ɹ�: MATERIALS SCIENCE (1550 ������)
+2025-10-18 18:25:28,298 - INFO - ����ɹ�: MATHEMATICS (385 ������)
+2025-10-18 18:25:28,324 - INFO - ����ɹ�: MICROBIOLOGY (785 ������)
+2025-10-18 18:25:28,351 - INFO - ����ɹ�: MOLECULAR BIOLOGY & GENETICS (1142 ������)
+2025-10-18 18:25:28,367 - INFO - ����ɹ�: MULTIDISCIPLINARY (214 ������)
+2025-10-18 18:25:28,402 - INFO - ����ɹ�: NEUROSCIENCE & BEHAVIOR (1240 ������)
+2025-10-18 18:25:28,428 - INFO - ����ɹ�: PHARMACOLOGY & TOXICOLOGY (1353 ������)
+2025-10-18 18:25:28,451 - INFO - ����ɹ�: PHYSICS (973 ������)
+2025-10-18 18:25:28,483 - INFO - ����ɹ�: PLANT & ANIMAL SCIENCE (1869 ������)
+2025-10-18 18:25:28,508 - INFO - ����ɹ�: PSYCHIATRY PSYCHOLOGY (1108 ������)
+2025-10-18 18:25:28,542 - INFO - ����ɹ�: SOCIAL SCIENCES, GENERAL (2300 ������)
+2025-10-18 18:25:28,561 - INFO - ����ɹ�: SPACE SCIENCE (232 ������)
+2025-10-18 18:25:28,575 - INFO - ����ʦ����ѧ������� (�ҵ� 17 ����¼)
+2025-10-18 18:25:28,584 - INFO - �й���½��У������� (���� 22 ��ѧ��)
+2025-10-18 18:25:28,610 - INFO - ȫ������������ (�ҵ� 1536 ������-ѧ�Ƽ�¼)
+2025-10-18 18:25:29,336 - INFO - ��������ѳɹ�������: D:\vsc\���ݿ�ѧ������ݼ�������\download\download\analysis_results.xlsx
+2025-10-23 19:30:50,155 - INFO - 数据库表结构初始化成功。
+2025-10-23 19:30:50,193 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 19:30:50,210 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 19:30:50,231 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 19:30:50,281 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 19:30:50,303 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 19:30:50,326 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 19:30:50,360 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 19:30:50,384 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 19:30:50,403 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 19:30:50,420 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 19:30:50,438 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 19:30:50,451 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 19:30:50,466 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 19:30:50,483 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 19:30:50,494 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 19:30:50,513 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 19:30:50,531 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 19:30:50,550 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 19:30:50,572 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 19:30:50,589 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 19:30:50,614 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 19:30:50,627 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 19:30:50,628 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 19:30:50,798 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 19:30:50,823 - ERROR - 聚类分析失败: 0. 结果将留空。
+Traceback (most recent call last):
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\range.py", line 413, in get_loc
+    return self._range.index(new_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: 0 is not in range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 294, in aggregate
+    return self._python_agg_general(func, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 327, in _python_agg_general
+    result = self._grouper.agg_series(obj, f)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\ops.py", line 864, in agg_series
+    result = self._aggregate_series_pure_python(obj, func)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\ops.py", line 885, in _aggregate_series_pure_python
+    res = func(group)
+          ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 324, in <lambda>
+    f = lambda x: func(x, *args, **kwargs)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\lab5.py", line 207, in <lambda>
+    country=('country', lambda x: x.mode()[0])
+                                 ~~~~~~~~^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\series.py", line 1130, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\series.py", line 1246, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\range.py", line 415, in get_loc
+    raise KeyError(key) from err
+KeyError: 0
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\range.py", line 413, in get_loc
+    return self._range.index(new_key)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: 0 is not in range
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "d:\vsc\lab5.py", line 431, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\lab5.py", line 202, in analyze_clustering
+    institution_df = full_df_with_stats.groupby('institution').agg(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 1432, in aggregate
+    result = op.agg()
+             ^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\apply.py", line 190, in agg
+    return self.agg_dict_like()
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\apply.py", line 423, in agg_dict_like
+    return self.agg_or_apply_dict_like(op_name="agg")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\apply.py", line 1603, in agg_or_apply_dict_like
+    result_index, result_data = self.compute_dict_like(
+                                ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\apply.py", line 497, in compute_dict_like
+    getattr(obj._gotitem(key, ndim=1), op_name)(how, **kwargs)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 257, in aggregate
+    ret = self._aggregate_multiple_funcs(func, *args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 362, in _aggregate_multiple_funcs
+    results[key] = self.aggregate(func, *args, **kwargs)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 299, in aggregate
+    result = self._aggregate_named(func, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\groupby\generic.py", line 461, in _aggregate_named
+    output = func(group, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\lab5.py", line 207, in <lambda>
+    country=('country', lambda x: x.mode()[0])
+                                 ~~~~~~~~^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\series.py", line 1130, in __getitem__
+    return self._get_value(key)
+           ^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\series.py", line 1246, in _get_value
+    loc = self.index.get_loc(label)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\range.py", line 415, in get_loc
+    raise KeyError(key) from err
+KeyError: 0
+2025-10-23 19:30:50,839 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 19:30:50,858 - INFO - ECNU 学科画像分析完成。
+2025-10-23 19:30:50,859 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 19:30:51,006 - INFO - 排名预测模型分析完成。
+2025-10-23 19:30:51,010 - ERROR - 导出Excel失败: No module named 'xlsxwriter'
+Traceback (most recent call last):
+  File "d:\vsc\lab5.py", line 389, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 197, in __init__
+    from xlsxwriter import Workbook
+ModuleNotFoundError: No module named 'xlsxwriter'
+2025-10-23 19:30:51,013 - CRITICAL - 程序主流程出现严重错误: No module named 'xlsxwriter'
+Traceback (most recent call last):
+  File "d:\vsc\lab5.py", line 448, in main
+    export_all_results(output_path,
+  File "d:\vsc\lab5.py", line 389, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 197, in __init__
+    from xlsxwriter import Workbook
+ModuleNotFoundError: No module named 'xlsxwriter'
+2025-10-23 19:35:42,118 - INFO - 数据库表结构初始化成功。
+2025-10-23 19:35:42,159 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 19:35:42,179 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 19:35:42,205 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 19:35:42,255 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 19:35:42,272 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 19:35:42,288 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 19:35:42,320 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 19:35:42,342 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 19:35:42,360 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 19:35:42,376 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 19:35:42,396 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 19:35:42,409 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 19:35:42,425 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 19:35:42,443 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 19:35:42,455 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 19:35:42,473 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 19:35:42,491 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 19:35:42,509 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 19:35:42,545 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 19:35:42,563 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 19:35:42,585 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 19:35:42,596 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 19:35:42,597 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 19:35:42,732 - CRITICAL - 程序主流程出现严重错误: name 'china_df' is not defined
+Traceback (most recent call last):
+  File "d:\vsc\lab5.py", line 414, in main
+    ecnu_df_basic, china_df, region_df = perform_analysis(
+                                         ^^^^^^^^^^^^^^^^^
+  File "d:\vsc\lab5.py", line 192, in perform_analysis
+    return ecnu_df, china_df, region_df
+                    ^^^^^^^^
+NameError: name 'china_df' is not defined
+2025-10-23 19:39:48,266 - INFO - 数据库表结构初始化成功。
+2025-10-23 19:39:48,290 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 19:39:48,311 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 19:39:48,332 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 19:39:48,375 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 19:39:48,390 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 19:39:48,404 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 19:39:48,429 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 19:39:48,451 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 19:39:48,468 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 19:39:48,483 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 19:39:48,504 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 19:39:48,516 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 19:39:48,530 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 19:39:48,547 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 19:39:48,559 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 19:39:48,575 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 19:39:48,592 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 19:39:48,610 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 19:39:48,628 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 19:39:48,644 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 19:39:48,664 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 19:39:48,675 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 19:39:48,675 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 19:39:48,789 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 19:39:52,262 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 19:39:52,299 - ERROR - 聚类分析失败: "['Country'] not in index". 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\lab5.py", line 419, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\lab5.py", line 257, in analyze_clustering
+    return cluster_summary, similar_schools[['Similar_Institution', 'Country', 'Distance_to_ECNU', 'avg_rank_percentile', 'avg_cites_per_paper']]
+                            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6264, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Country'] not in index"
+2025-10-23 19:39:52,314 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 19:39:52,330 - INFO - ECNU 学科画像分析完成。
+2025-10-23 19:39:52,330 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 19:39:52,471 - INFO - 排名预测模型分析完成。
+2025-10-23 19:39:52,572 - WARNING - 工作表 4_Clustering_Summary 包含错误占位符，分析失败。
+2025-10-23 19:39:52,573 - WARNING - 工作表 5_Similar_Schools 包含错误占位符，分析失败。
+2025-10-23 19:39:52,622 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab4\download\analysis_results_full.xlsx
+2025-10-23 21:03:48,340 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:03:48,379 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:03:48,396 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:03:48,418 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:03:48,459 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:03:48,471 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:03:48,484 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:03:48,511 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:03:48,530 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:03:48,546 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:03:48,563 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:03:48,581 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:03:48,594 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:03:48,607 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:03:48,622 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:03:48,632 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:03:48,646 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:03:48,665 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:03:48,680 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:03:48,699 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:03:48,713 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:03:48,735 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:03:48,746 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:03:48,746 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:03:48,879 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:03:52,353 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:03:52,355 - ERROR - 聚类分析失败: "['Country'] not in index". 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 419, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 257, in analyze_clustering
+    return cluster_summary, similar_schools[['Similar_Institution', 'Country', 'Distance_to_ECNU', 'avg_rank_percentile', 'avg_cites_per_paper']]
+                            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6264, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Country'] not in index"
+2025-10-23 21:03:52,363 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:03:52,381 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:03:52,382 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:03:52,519 - INFO - 排名预测模型分析完成。
+2025-10-23 21:03:52,597 - ERROR - 导出Excel失败: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 378, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+2025-10-23 21:03:52,601 - CRITICAL - 程序主流程出现严重错误: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 439, in main
+    export_all_results(output_path,
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 378, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+2025-10-23 21:03:55,093 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:03:55,112 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:03:55,131 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:03:55,152 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:03:55,200 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:03:55,215 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:03:55,227 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:03:55,254 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:03:55,273 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:03:55,287 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:03:55,301 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:03:55,319 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:03:55,332 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:03:55,345 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:03:55,359 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:03:55,369 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:03:55,386 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:03:55,401 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:03:55,413 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:03:55,435 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:03:55,448 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:03:55,467 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:03:55,478 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:03:55,479 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:03:55,592 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:03:58,975 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:03:58,975 - ERROR - 聚类分析失败: "['Country'] not in index". 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 419, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 257, in analyze_clustering
+    return cluster_summary, similar_schools[['Similar_Institution', 'Country', 'Distance_to_ECNU', 'avg_rank_percentile', 'avg_cites_per_paper']]
+                            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6264, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Country'] not in index"
+2025-10-23 21:03:58,980 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:03:58,992 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:03:58,992 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:03:59,121 - INFO - 排名预测模型分析完成。
+2025-10-23 21:03:59,173 - ERROR - 导出Excel失败: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 378, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+2025-10-23 21:03:59,174 - CRITICAL - 程序主流程出现严重错误: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 439, in main
+    export_all_results(output_path,
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 378, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab4\\download\\analysis_results_full.xlsx'
+2025-10-23 21:10:46,284 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:10:46,304 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:10:46,320 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:10:46,340 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:10:46,381 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:10:46,393 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:10:46,405 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:10:46,429 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:10:46,448 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:10:46,462 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:10:46,476 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:10:46,493 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:10:46,503 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:10:46,519 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:10:46,534 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:10:46,544 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:10:46,561 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:10:46,576 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:10:46,592 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:10:46,609 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:10:46,623 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:10:46,643 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:10:46,654 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:10:46,654 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:10:46,810 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:10:49,784 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:10:49,785 - ERROR - 聚类分析失败: "['Country'] not in index". 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 419, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 257, in analyze_clustering
+    return cluster_summary, similar_schools[['Similar_Institution', 'Country', 'Distance_to_ECNU', 'avg_rank_percentile', 'avg_cites_per_paper']]
+                            ~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6264, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['Country'] not in index"
+2025-10-23 21:10:49,790 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:10:49,800 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:10:49,801 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:10:49,909 - INFO - 排名预测模型分析完成。
+2025-10-23 21:10:49,970 - WARNING - 工作表 4_Clustering_Summary 包含错误占位符，分析失败。
+2025-10-23 21:10:49,971 - WARNING - 工作表 5_Similar_Schools 包含错误占位符，分析失败。
+2025-10-23 21:10:50,009 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab4\download\analysis_results_full.xlsx
+2025-10-23 21:12:51,854 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:12:51,883 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:12:51,906 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:12:51,931 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:12:51,986 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:12:51,999 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:12:52,010 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:12:52,043 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:12:52,063 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:12:52,078 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:12:52,092 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:12:52,109 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:12:52,122 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:12:52,136 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:12:52,151 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:12:52,161 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:12:52,176 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:12:52,192 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:12:52,206 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:12:52,223 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:12:52,238 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:12:52,258 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:12:52,268 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:12:52,268 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:12:52,399 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:12:55,563 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:12:55,564 - ERROR - 聚类分析失败: "['country'] not in index". 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 424, in main
+    cluster_summary, similar_schools_df = analyze_clustering(full_df_with_stats, CONFIG["target_institution"])
+                                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\数据科学与大数据技术导论\lab5.py", line 259, in analyze_clustering
+    return cluster_summary, similar_schools[[
+                            ^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\frame.py", line 4113, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6212, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\core\indexes\base.py", line 6264, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['country'] not in index"
+2025-10-23 21:12:55,571 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:12:55,584 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:12:55,584 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:12:55,712 - INFO - 排名预测模型分析完成。
+2025-10-23 21:12:55,769 - WARNING - 工作表 4_Clustering_Summary 包含错误占位符，分析失败。
+2025-10-23 21:12:55,770 - WARNING - 工作表 5_Similar_Schools 包含错误占位符，分析失败。
+2025-10-23 21:12:55,809 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab4\download\analysis_results_full.xlsx
+2025-10-23 21:16:31,921 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:16:31,952 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:16:31,971 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:16:31,995 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:16:32,054 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:16:32,067 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:16:32,077 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:16:32,105 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:16:32,123 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:16:32,137 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:16:32,151 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:16:32,167 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:16:32,177 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:16:32,189 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:16:32,204 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:16:32,214 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:16:32,227 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:16:32,247 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:16:32,261 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:16:32,282 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:16:32,296 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:16:32,316 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:16:32,328 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:16:32,328 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:16:32,475 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:16:35,553 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:16:35,554 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:16:35,570 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:16:35,571 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:16:35,705 - INFO - 排名预测模型分析完成。
+2025-10-23 21:16:35,800 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab4\download\analysis_results_full.xlsx
+2025-10-23 21:26:39,296 - INFO - 数据库表结构初始化成功。
+2025-10-23 21:26:39,317 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-10-23 21:26:39,337 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-10-23 21:26:39,357 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-10-23 21:26:39,399 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-10-23 21:26:39,413 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-10-23 21:26:39,424 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-10-23 21:26:39,449 - INFO - 成功处理文件: ENGINEERING.csv
+2025-10-23 21:26:39,467 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-10-23 21:26:39,481 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-10-23 21:26:39,496 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-10-23 21:26:39,512 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-10-23 21:26:39,525 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-10-23 21:26:39,537 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-10-23 21:26:39,549 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-10-23 21:26:39,560 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-10-23 21:26:39,573 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-10-23 21:26:39,589 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-10-23 21:26:39,600 - INFO - 成功处理文件: PHYSICS.csv
+2025-10-23 21:26:39,619 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-10-23 21:26:39,632 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-10-23 21:26:39,652 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-10-23 21:26:39,662 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-10-23 21:26:39,662 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-10-23 21:26:39,772 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-10-23 21:26:42,842 - INFO - 聚类分析和相似高校分析完成。
+2025-10-23 21:26:42,843 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-10-23 21:26:42,852 - INFO - ECNU 学科画像分析完成。
+2025-10-23 21:26:42,852 - INFO - --- 目标 10: 开始排名预测建模 ---
+2025-10-23 21:26:42,992 - INFO - 排名预测模型分析完成。
+2025-10-23 21:26:43,090 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab4\download\analysis_results_full.xlsx
