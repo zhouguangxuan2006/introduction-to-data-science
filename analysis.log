@@ -1,0 +1,122 @@
+2025-11-01 22:04:53,982 - INFO - 数据库表结构初始化成功。
+2025-11-01 22:04:54,053 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-01 22:04:54,079 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-01 22:04:54,110 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-01 22:04:54,157 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-01 22:04:54,171 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-01 22:04:54,193 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-01 22:04:54,225 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-01 22:04:54,240 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-01 22:04:54,261 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-01 22:04:54,286 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-01 22:04:54,309 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-01 22:04:54,323 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-01 22:04:54,343 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-01 22:04:54,374 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-01 22:04:54,390 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-01 22:04:54,420 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-01 22:04:54,440 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-01 22:04:54,460 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-01 22:04:54,488 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-01 22:04:54,506 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-01 22:04:54,527 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-01 22:04:54,540 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-01 22:04:54,540 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-01 22:04:54,686 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-01 22:04:58,128 - INFO - 聚类分析和相似高校分析完成。
+2025-11-01 22:04:58,129 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-01 22:04:58,141 - INFO - ECNU 学科画像分析完成。
+2025-11-01 22:04:58,141 - INFO - --- 目标 10: 开始深度学习 (MLPRegressor) 排名预测建模 ---
+2025-11-01 22:05:18,116 - INFO - 深度学习排名预测模型分析完成。
+2025-11-01 22:05:18,304 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab6\analysis_results_lab6.xlsx
+2025-11-01 22:16:51,744 - INFO - 数据库表结构初始化成功。
+2025-11-01 22:16:51,799 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-01 22:16:51,822 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-01 22:16:51,846 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-01 22:16:51,886 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-01 22:16:51,913 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-01 22:16:51,928 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-01 22:16:51,952 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-01 22:16:51,984 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-01 22:16:52,004 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-01 22:16:52,018 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-01 22:16:52,037 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-01 22:16:52,057 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-01 22:16:52,081 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-01 22:16:52,098 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-01 22:16:52,120 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-01 22:16:52,139 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-01 22:16:52,157 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-01 22:16:52,181 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-01 22:16:52,197 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-01 22:16:52,231 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-01 22:16:52,254 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-01 22:16:52,273 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-01 22:16:52,273 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-01 22:16:52,465 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-01 22:16:56,717 - INFO - 聚类分析和相似高校分析完成。
+2025-11-01 22:16:56,717 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-01 22:16:56,733 - INFO - ECNU 学科画像分析完成。
+2025-11-01 22:16:56,734 - INFO - --- 目标 10: 开始深度学习 (MLPRegressor) 排名预测建模 (随机划分) ---
+2025-11-01 22:19:13,091 - INFO - 深度学习排名预测模型分析完成。
+2025-11-01 22:19:13,221 - ERROR - 导出Excel失败: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab6\\analysis_results_lab6.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab6\lab6.py", line 438, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab6\\analysis_results_lab6.xlsx'
+2025-11-01 22:19:13,221 - CRITICAL - 程序主流程出现严重错误: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab6\\analysis_results_lab6.xlsx'
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab6\lab6.py", line 499, in main
+    export_all_results(output_path,
+  File "d:\vsc\数据科学与大数据技术导论\lab6\lab6.py", line 438, in export_all_results
+    with pd.ExcelWriter(output_path, engine='xlsxwriter') as writer:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_xlsxwriter.py", line 204, in __init__
+    super().__init__(
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\excel\_base.py", line 1246, in __init__
+    self._handles = get_handle(
+                    ^^^^^^^^^^^
+  File "C:\Users\D\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pandas\io\common.py", line 882, in get_handle
+    handle = open(handle, ioargs.mode)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+PermissionError: [Errno 13] Permission denied: 'D:\\vsc\\数据科学与大数据技术导论\\lab6\\analysis_results_lab6.xlsx'
+2025-11-01 22:19:41,685 - INFO - 数据库表结构初始化成功。
+2025-11-01 22:19:41,707 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-01 22:19:41,739 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-01 22:19:41,763 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-01 22:19:41,810 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-01 22:19:41,826 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-01 22:19:41,842 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-01 22:19:41,871 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-01 22:19:41,895 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-01 22:19:41,914 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-01 22:19:41,934 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-01 22:19:41,958 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-01 22:19:41,976 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-01 22:19:41,993 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-01 22:19:42,013 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-01 22:19:42,029 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-01 22:19:42,047 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-01 22:19:42,070 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-01 22:19:42,091 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-01 22:19:42,114 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-01 22:19:42,132 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-01 22:19:42,159 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-01 22:19:42,175 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-01 22:19:42,175 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-01 22:19:42,287 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-01 22:19:45,513 - INFO - 聚类分析和相似高校分析完成。
+2025-11-01 22:19:45,513 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-01 22:19:45,540 - INFO - ECNU 学科画像分析完成。
+2025-11-01 22:19:45,540 - INFO - --- 目标 10: 开始深度学习 (MLPRegressor) 排名预测建模 (随机划分) ---
+2025-11-01 22:21:40,053 - INFO - 深度学习排名预测模型分析完成。
+2025-11-01 22:21:40,250 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab6\analysis_results_lab6.xlsx
