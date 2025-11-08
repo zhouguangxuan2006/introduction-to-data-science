@@ -1,0 +1,100 @@
+2025-11-03 18:47:38,224 - INFO - 数据库表结构初始化成功。
+2025-11-03 18:47:38,350 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-03 18:47:38,370 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-03 18:47:38,399 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-03 18:47:38,455 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-03 18:47:38,471 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-03 18:47:38,489 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-03 18:47:38,529 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-03 18:47:38,555 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-03 18:47:38,572 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-03 18:47:38,594 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-03 18:47:38,622 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-03 18:47:38,639 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-03 18:47:38,662 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-03 18:47:38,689 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-03 18:47:38,712 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-03 18:47:38,739 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-03 18:47:38,759 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-03 18:47:38,790 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-03 18:47:38,809 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-03 18:47:38,844 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-03 18:47:38,876 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-03 18:47:38,889 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-03 18:47:38,889 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-03 18:47:39,089 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-03 18:47:43,599 - INFO - 聚类分析和相似高校分析完成。
+2025-11-03 18:47:43,599 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-03 18:47:43,619 - INFO - ECNU 学科画像分析完成。
+2025-11-03 18:47:43,619 - INFO - --- 目标 10: 开始深度学习 (TabNetRegressor) 排名预测建模 ---
+2025-11-03 18:47:43,649 - INFO - TabNet 模型使用的设备: cpu
+2025-11-03 18:47:43,675 - ERROR - 排名预测建模失败 (TabNet): TabModel.fit() got an unexpected keyword argument 'device_name'. 结果将留空。
+Traceback (most recent call last):
+  File "d:\vsc\数据科学与大数据技术导论\lab7\lab7.py", line 546, in main
+    model_summary_df = build_ranking_model(full_df_with_stats)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "d:\vsc\数据科学与大数据技术导论\lab7\lab7.py", line 429, in build_ranking_model
+    model.fit(
+TypeError: TabModel.fit() got an unexpected keyword argument 'device_name'
+2025-11-03 18:47:43,823 - WARNING - 工作表 7_Ranking_Model_Eval 包含错误占位符，分析失败。
+2025-11-03 18:47:43,869 - INFO - 所有分析结果已成功导出到: D:\vsc\数据科学与大数据技术导论\lab7\analysis_results_lab6_tabnet.xlsx
+2025-11-03 19:11:25,823 - INFO - 数据库表结构初始化成功。
+2025-11-03 19:11:25,940 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-03 19:11:25,968 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-03 19:11:25,998 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-03 19:11:26,061 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-03 19:11:26,091 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-03 19:11:26,116 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-03 19:11:26,173 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-03 19:11:26,212 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-03 19:11:26,239 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-03 19:11:26,266 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-03 19:11:26,293 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-03 19:11:26,316 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-03 19:11:26,342 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-03 19:11:26,387 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-03 19:11:26,410 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-03 19:11:26,454 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-03 19:11:26,487 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-03 19:11:26,515 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-03 19:11:26,543 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-03 19:11:26,570 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-03 19:11:26,603 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-03 19:11:26,625 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-03 19:11:26,625 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-03 19:11:26,835 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-03 19:11:30,811 - INFO - 聚类分析和相似高校分析完成。
+2025-11-03 19:11:30,813 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-03 19:11:30,831 - INFO - ECNU 学科画像分析完成。
+2025-11-03 19:11:30,832 - INFO - --- 目标 10: 开始深度学习 (TabNetRegressor) 排名预测建模 ---
+2025-11-03 19:11:30,860 - INFO - TabNet 模型使用的设备: cpu
+2025-11-03 19:13:32,491 - INFO - 数据库表结构初始化成功。
+2025-11-03 19:13:32,511 - INFO - 成功处理文件: AGRICULTURAL SCIENCES.csv
+2025-11-03 19:13:32,540 - INFO - 成功处理文件: BIOLOGY & BIOCHEMISTRY.csv
+2025-11-03 19:13:32,627 - INFO - 成功处理文件: CHEMISTRY.csv
+2025-11-03 19:13:32,669 - INFO - 成功处理文件: CLINICAL MEDICINE.csv
+2025-11-03 19:13:32,680 - INFO - 成功处理文件: COMPUTER SCIENCE.csv
+2025-11-03 19:13:32,701 - INFO - 成功处理文件: ECONOMICS & BUSINESS.csv
+2025-11-03 19:13:32,735 - INFO - 成功处理文件: ENGINEERING.csv
+2025-11-03 19:13:32,751 - INFO - 成功处理文件: ENVIRONMENT ECOLOGY.csv
+2025-11-03 19:13:32,772 - INFO - 成功处理文件: GEOSCIENCES.csv
+2025-11-03 19:13:32,791 - INFO - 成功处理文件: IMMUNOLOGY.csv
+2025-11-03 19:13:32,817 - INFO - 成功处理文件: MATERIALS SCIENCE.csv
+2025-11-03 19:13:32,832 - INFO - 成功处理文件: MATHEMATICS.csv
+2025-11-03 19:13:32,853 - INFO - 成功处理文件: MICROBIOLOGY.csv
+2025-11-03 19:13:32,871 - INFO - 成功处理文件: MOLECULAR BIOLOGY & GENETICS.csv
+2025-11-03 19:13:32,889 - INFO - 成功处理文件: MULTIDISCIPLINARY.csv
+2025-11-03 19:13:32,906 - INFO - 成功处理文件: NEUROSCIENCE & BEHAVIOR.csv
+2025-11-03 19:13:32,933 - INFO - 成功处理文件: PHARMACOLOGY & TOXICOLOGY.csv
+2025-11-03 19:13:32,950 - INFO - 成功处理文件: PHYSICS.csv
+2025-11-03 19:13:32,972 - INFO - 成功处理文件: PLANT & ANIMAL SCIENCE.csv
+2025-11-03 19:13:32,999 - INFO - 成功处理文件: PSYCHIATRY PSYCHOLOGY.csv
+2025-11-03 19:13:33,022 - INFO - 成功处理文件: SOCIAL SCIENCES, GENERAL.csv
+2025-11-03 19:13:33,041 - INFO - 成功处理文件: SPACE SCIENCE.csv
+2025-11-03 19:13:33,041 - INFO - 数据加载完成。总文件数: 22, 成功处理: 22
+2025-11-03 19:13:33,151 - INFO - --- 目标 8: 开始聚类分析 ---
+2025-11-03 19:13:36,000 - INFO - 聚类分析和相似高校分析完成。
+2025-11-03 19:13:36,000 - INFO - --- 目标 9: 开始 ECNU 学科画像分析 ---
+2025-11-03 19:13:36,013 - INFO - ECNU 学科画像分析完成。
+2025-11-03 19:13:36,013 - INFO - --- 目标 10: 开始深度学习 (TabNetRegressor) 排名预测建模 ---
+2025-11-03 19:13:36,042 - INFO - TabNet 模型使用的设备: cpu
