@@ -1,0 +1,481 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_6771a9690f5b097e31bc0e9cf5aa25fa {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_6771a9690f5b097e31bc0e9cf5aa25fa" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_6771a9690f5b097e31bc0e9cf5aa25fa = L.map(
+                "map_6771a9690f5b097e31bc0e9cf5aa25fa",
+                {
+                    center: [35.8617, 104.1954],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 4,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_1825e7ebae682e6b207c446668f759f8 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_1825e7ebae682e6b207c446668f759f8.addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var marker_86d71299943499c1f975bdd85709563b = L.marker(
+                [39.9042, 116.4074],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_f97d63bdca9a9e4dcf9aecc34e827215 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d2cddd8a92e1c789ec16edfbeb45ccca = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_0b6567c7dc25c364474cf7176e9f3446 = $(`<div id="html_0b6567c7dc25c364474cf7176e9f3446" style="width: 100.0%; height: 100.0%;">         <b>北京</b><br>         AQI: 85 (良)<br>         PM2.5: 58 μg/m³<br>         PM10: 89 μg/m³<br>         O3: 120 μg/m³<br>         哮喘发病率: 3.2‰<br>         心血管疾病发病率: 12.5‰         </div>`)[0];
+                popup_d2cddd8a92e1c789ec16edfbeb45ccca.setContent(html_0b6567c7dc25c364474cf7176e9f3446);
+            
+        
+
+        marker_86d71299943499c1f975bdd85709563b.bindPopup(popup_d2cddd8a92e1c789ec16edfbeb45ccca)
+        ;
+
+        
+    
+    
+                marker_86d71299943499c1f975bdd85709563b.setIcon(icon_f97d63bdca9a9e4dcf9aecc34e827215);
+            
+    
+            var marker_644681f33d170f57cd40c8a167a2c6a8 = L.marker(
+                [31.2304, 121.4737],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_6af520b2a0e70d99b98885c82e7ac12a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2c95a84595d726fd3f2c6d58ef8f590f = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c21a8decc401ea06f21a352ff8cf978d = $(`<div id="html_c21a8decc401ea06f21a352ff8cf978d" style="width: 100.0%; height: 100.0%;">         <b>上海</b><br>         AQI: 72 (良)<br>         PM2.5: 45 μg/m³<br>         PM10: 70 μg/m³<br>         O3: 110 μg/m³<br>         哮喘发病率: 2.8‰<br>         心血管疾病发病率: 10.8‰         </div>`)[0];
+                popup_2c95a84595d726fd3f2c6d58ef8f590f.setContent(html_c21a8decc401ea06f21a352ff8cf978d);
+            
+        
+
+        marker_644681f33d170f57cd40c8a167a2c6a8.bindPopup(popup_2c95a84595d726fd3f2c6d58ef8f590f)
+        ;
+
+        
+    
+    
+                marker_644681f33d170f57cd40c8a167a2c6a8.setIcon(icon_6af520b2a0e70d99b98885c82e7ac12a);
+            
+    
+            var marker_c9e1ebf866b28b087c013eb80cfc9a90 = L.marker(
+                [23.1291, 113.2644],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_f7eb58bf47ada4f0b1e43bac6b43452d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_a1117c2b172a1bb8f35869e73f2b5187 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_09bbcf4494185c85c33bb7ee021e3a3b = $(`<div id="html_09bbcf4494185c85c33bb7ee021e3a3b" style="width: 100.0%; height: 100.0%;">         <b>广州</b><br>         AQI: 68 (良)<br>         PM2.5: 42 μg/m³<br>         PM10: 65 μg/m³<br>         O3: 105 μg/m³<br>         哮喘发病率: 2.5‰<br>         心血管疾病发病率: 9.5‰         </div>`)[0];
+                popup_a1117c2b172a1bb8f35869e73f2b5187.setContent(html_09bbcf4494185c85c33bb7ee021e3a3b);
+            
+        
+
+        marker_c9e1ebf866b28b087c013eb80cfc9a90.bindPopup(popup_a1117c2b172a1bb8f35869e73f2b5187)
+        ;
+
+        
+    
+    
+                marker_c9e1ebf866b28b087c013eb80cfc9a90.setIcon(icon_f7eb58bf47ada4f0b1e43bac6b43452d);
+            
+    
+            var marker_d0f8b8e61cd692166775b6215ef803d6 = L.marker(
+                [22.5431, 114.0579],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_3218d3b3647a68bb54976f9a81e55a50 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d8102b6a1b3ff5e89b722c9cea44c7a7 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3d126c2a34ce63e6cce63254950be4c7 = $(`<div id="html_3d126c2a34ce63e6cce63254950be4c7" style="width: 100.0%; height: 100.0%;">         <b>深圳</b><br>         AQI: 65 (良)<br>         PM2.5: 38 μg/m³<br>         PM10: 60 μg/m³<br>         O3: 100 μg/m³<br>         哮喘发病率: 2.3‰<br>         心血管疾病发病率: 9.0‰         </div>`)[0];
+                popup_d8102b6a1b3ff5e89b722c9cea44c7a7.setContent(html_3d126c2a34ce63e6cce63254950be4c7);
+            
+        
+
+        marker_d0f8b8e61cd692166775b6215ef803d6.bindPopup(popup_d8102b6a1b3ff5e89b722c9cea44c7a7)
+        ;
+
+        
+    
+    
+                marker_d0f8b8e61cd692166775b6215ef803d6.setIcon(icon_3218d3b3647a68bb54976f9a81e55a50);
+            
+    
+            var marker_ed4387614dc958ee7c4aed47c55045a9 = L.marker(
+                [30.5728, 104.0668],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_6f1a6b373c6359dd738dd03a6a7fa3ee = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_487f555e615be507451f5875a2a8e407 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_cc1c13c96fa7b4f9b190e97738eb4000 = $(`<div id="html_cc1c13c96fa7b4f9b190e97738eb4000" style="width: 100.0%; height: 100.0%;">         <b>成都</b><br>         AQI: 92 (良)<br>         PM2.5: 65 μg/m³<br>         PM10: 98 μg/m³<br>         O3: 125 μg/m³<br>         哮喘发病率: 3.5‰<br>         心血管疾病发病率: 13.2‰         </div>`)[0];
+                popup_487f555e615be507451f5875a2a8e407.setContent(html_cc1c13c96fa7b4f9b190e97738eb4000);
+            
+        
+
+        marker_ed4387614dc958ee7c4aed47c55045a9.bindPopup(popup_487f555e615be507451f5875a2a8e407)
+        ;
+
+        
+    
+    
+                marker_ed4387614dc958ee7c4aed47c55045a9.setIcon(icon_6f1a6b373c6359dd738dd03a6a7fa3ee);
+            
+    
+            var marker_cf1bd60f253fbd4190de45f0bf772332 = L.marker(
+                [30.2741, 120.1551],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_3ae97a6151f6ee46ebbe4bbbdc32b13d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0a4bd5cd2fd4f7fed26fb04aac05d0da = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_186fa1ff59ab5b98652d2a300f9ca20f = $(`<div id="html_186fa1ff59ab5b98652d2a300f9ca20f" style="width: 100.0%; height: 100.0%;">         <b>杭州</b><br>         AQI: 78 (良)<br>         PM2.5: 50 μg/m³<br>         PM10: 75 μg/m³<br>         O3: 115 μg/m³<br>         哮喘发病率: 2.9‰<br>         心血管疾病发病率: 11.2‰         </div>`)[0];
+                popup_0a4bd5cd2fd4f7fed26fb04aac05d0da.setContent(html_186fa1ff59ab5b98652d2a300f9ca20f);
+            
+        
+
+        marker_cf1bd60f253fbd4190de45f0bf772332.bindPopup(popup_0a4bd5cd2fd4f7fed26fb04aac05d0da)
+        ;
+
+        
+    
+    
+                marker_cf1bd60f253fbd4190de45f0bf772332.setIcon(icon_3ae97a6151f6ee46ebbe4bbbdc32b13d);
+            
+    
+            var marker_4e867b4e67992644aabd40cb94a97a1d = L.marker(
+                [30.5928, 114.3055],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_05f16b7be78e59e0e723c1300708da49 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2c86706d61c43ffba5a5e70a59455558 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_85b80e8bf8e898c31e3e0d639e78fffc = $(`<div id="html_85b80e8bf8e898c31e3e0d639e78fffc" style="width: 100.0%; height: 100.0%;">         <b>武汉</b><br>         AQI: 80 (良)<br>         PM2.5: 52 μg/m³<br>         PM10: 78 μg/m³<br>         O3: 118 μg/m³<br>         哮喘发病率: 3.0‰<br>         心血管疾病发病率: 11.5‰         </div>`)[0];
+                popup_2c86706d61c43ffba5a5e70a59455558.setContent(html_85b80e8bf8e898c31e3e0d639e78fffc);
+            
+        
+
+        marker_4e867b4e67992644aabd40cb94a97a1d.bindPopup(popup_2c86706d61c43ffba5a5e70a59455558)
+        ;
+
+        
+    
+    
+                marker_4e867b4e67992644aabd40cb94a97a1d.setIcon(icon_05f16b7be78e59e0e723c1300708da49);
+            
+    
+            var marker_572d2d38217b0c09e06f5c893f781fbf = L.marker(
+                [34.2658, 108.9541],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_a464d05377f413f3e70960351897c243 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "orange",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_dda06a93c7da54fdd09f982b94103db6 = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_2d52e2959f553e00970585175b68da32 = $(`<div id="html_2d52e2959f553e00970585175b68da32" style="width: 100.0%; height: 100.0%;">         <b>西安</b><br>         AQI: 105 (轻度污染)<br>         PM2.5: 75 μg/m³<br>         PM10: 110 μg/m³<br>         O3: 130 μg/m³<br>         哮喘发病率: 3.8‰<br>         心血管疾病发病率: 14.0‰         </div>`)[0];
+                popup_dda06a93c7da54fdd09f982b94103db6.setContent(html_2d52e2959f553e00970585175b68da32);
+            
+        
+
+        marker_572d2d38217b0c09e06f5c893f781fbf.bindPopup(popup_dda06a93c7da54fdd09f982b94103db6)
+        ;
+
+        
+    
+    
+                marker_572d2d38217b0c09e06f5c893f781fbf.setIcon(icon_a464d05377f413f3e70960351897c243);
+            
+    
+            var marker_dda3af78767b8f3598722932084aaffa = L.marker(
+                [29.563, 106.5516],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_e13881d23a9796a4212ceb1c3338b583 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_591fce010a9bb98752fce7877f4a215d = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_c403a8132c3f7adf027b5dc64a533053 = $(`<div id="html_c403a8132c3f7adf027b5dc64a533053" style="width: 100.0%; height: 100.0%;">         <b>重庆</b><br>         AQI: 95 (良)<br>         PM2.5: 68 μg/m³<br>         PM10: 102 μg/m³<br>         O3: 128 μg/m³<br>         哮喘发病率: 3.6‰<br>         心血管疾病发病率: 13.5‰         </div>`)[0];
+                popup_591fce010a9bb98752fce7877f4a215d.setContent(html_c403a8132c3f7adf027b5dc64a533053);
+            
+        
+
+        marker_dda3af78767b8f3598722932084aaffa.bindPopup(popup_591fce010a9bb98752fce7877f4a215d)
+        ;
+
+        
+    
+    
+                marker_dda3af78767b8f3598722932084aaffa.setIcon(icon_e13881d23a9796a4212ceb1c3338b583);
+            
+    
+            var marker_1826d4a01c98c987b8cf866c686716ee = L.marker(
+                [32.0603, 118.7969],
+                {
+}
+            ).addTo(map_6771a9690f5b097e31bc0e9cf5aa25fa);
+        
+    
+            var icon_5fda8f5de3517a0bdc977c6c8cc62758 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "yellow",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_907883bc08b0dd87dee9360862b65c6c = L.popup({
+  "maxWidth": 300,
+});
+
+        
+            
+                var html_3cfe558f733664cc90fb151db790b5cf = $(`<div id="html_3cfe558f733664cc90fb151db790b5cf" style="width: 100.0%; height: 100.0%;">         <b>南京</b><br>         AQI: 75 (良)<br>         PM2.5: 48 μg/m³<br>         PM10: 72 μg/m³<br>         O3: 112 μg/m³<br>         哮喘发病率: 2.7‰<br>         心血管疾病发病率: 10.5‰         </div>`)[0];
+                popup_907883bc08b0dd87dee9360862b65c6c.setContent(html_3cfe558f733664cc90fb151db790b5cf);
+            
+        
+
+        marker_1826d4a01c98c987b8cf866c686716ee.bindPopup(popup_907883bc08b0dd87dee9360862b65c6c)
+        ;
+
+        
+    
+    
+                marker_1826d4a01c98c987b8cf866c686716ee.setIcon(icon_5fda8f5de3517a0bdc977c6c8cc62758);
+            
+</script>
+</html>

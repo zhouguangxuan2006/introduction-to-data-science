@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>城市空气质量与健康关联分析</title>
+    <!-- 引入Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- 引入Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- 引入ECharts -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <!-- 引入Leaflet地图库 -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <!-- 引入自定义CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!-- 导航栏 -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">空气质量与健康分析</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#overview">数据概览</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#charts">图表分析</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#map">空气质量地图</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#data-table">原始数据</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <!-- 主容器 -->
+    <div class="container mt-4">
+        <!-- 数据概览部分 -->
+        <section id="overview" class="mb-5">
+            <h2 class="mb-4">数据概览</h2>
+            <div class="row">
+                <div class="col-md-3">
+                    <div class="card text-center bg-primary text-white">
+                        <div class="card-body">
+                            <h5 class="card-title">城市数量</h5>
+                            <p class="card-text display-4" id="city-count">10</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center bg-success text-white">
+                        <div class="card-body">
+                            <h5 class="card-title">平均AQI</h5>
+                            <p class="card-text display-4" id="avg-aqi">81</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center bg-warning text-white">
+                        <div class="card-body">
+                            <h5 class="card-title">平均PM2.5</h5>
+                            <p class="card-text display-4" id="avg-pm25">54.7</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-3">
+                    <div class="card text-center bg-danger text-white">
+                        <div class="card-body">
+                            <h5 class="card-title">平均哮喘发病率</h5>
+                            <p class="card-text display-4" id="avg-asthma">3.13‰</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 图表分析部分 -->
+        <section id="charts" class="mb-5">
+            <h2 class="mb-4">图表分析</h2>
+            
+            <!-- 相关性热力图 -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>空气质量与健康指标相关性热力图</h3>
+                </div>
+                <div class="card-body">
+                    <div id="heatmap" style="width: 100%; height: 400px;"></div>
+                </div>
+            </div>
+
+            <!-- AQI与健康指标关系 -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>AQI与健康指标关系</h3>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <canvas id="aqi-asthma-chart"></canvas>
+                        </div>
+                        <div class="col-md-6">
+                            <canvas id="aqi-cardio-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- PM2.5与健康指标关系 -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>PM2.5与健康指标关系</h3>
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-md-6">
+                            <canvas id="pm25-asthma-chart"></canvas>
+                        </div>
+                        <div class="col-md-6">
+                            <canvas id="pm25-cardio-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 各城市AQI对比 -->
+            <div class="card mb-4">
+                <div class="card-header">
+                    <h3>各城市AQI对比</h3>
+                </div>
+                <div class="card-body">
+                    <canvas id="city-aqi-chart"></canvas>
+                </div>
+            </div>
+        </section>
+
+        <!-- 空气质量地图部分 -->
+        <section id="map" class="mb-5">
+            <h2 class="mb-4">空气质量地图</h2>
+            <div class="card">
+                <div class="card-body">
+                    <div id="air-quality-map" style="width: 100%; height: 500px;"></div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 原始数据表格部分 -->
+        <section id="data-table" class="mb-5">
+            <h2 class="mb-4">原始数据</h2>
+            <div class="card">
+                <div class="card-body">
+                    <table class="table table-striped table-bordered">
+                        <thead>
+                            <tr>
+                                <th>城市</th>
+                                <th>AQI</th>
+                                <th>PM2.5</th>
+                                <th>PM10</th>
+                                <th>O3</th>
+                                <th>哮喘发病率(‰)</th>
+                                <th>心血管疾病发病率(‰)</th>
+                            </tr>
+                        </thead>
+                        <tbody id="data-table-body">
+                            <!-- 数据将通过JavaScript动态填充 -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <!-- 引入Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- 引入自定义JS -->
+    <script src="js/main.js"></script>
+</body>
+</html>
